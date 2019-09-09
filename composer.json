@@ -23,5 +23,6 @@
         "psr-4": {
             "Gentor\\Etsy\\": "src/"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
