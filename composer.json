@@ -8,6 +8,12 @@
             "email": "evgeni.nurkov@gmail.com"
         }
     ],
+    "repositories": [  
+        {  
+            "type": "vcs",  
+            "url": "https://github.com/nmrdxt/etsy-php-laravel"  
+        }  
+    ],    
     "require": {
         "league/oauth1-client": "^1.7",
         "gentor/oauth1-etsy": "^1.0.3"
