@@ -17,7 +17,7 @@
     "require": {
         "league/oauth1-client": "^1.7",
         "gentor/oauth1-etsy": "^1.0.3",
-        "gentor/etsy-php-laravel": "dev-master"
+        "gentor/etsy-php-laravel": "dev-remove-session"
     },
     "autoload": {
         "psr-4": {
